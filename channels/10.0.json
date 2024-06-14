@@ -1,6 +1,6 @@
 {
     "php_version": "8.2",
-    "base_version": "5.15.0",
+    "base_version": "10.0.0",
     "build": 2208,
     "is_dev": false,
     "channel": "stable",
